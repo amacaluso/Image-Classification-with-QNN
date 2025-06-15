@@ -10,15 +10,6 @@ This repository demonstrates hybrid **classical–quantum** approaches for image
 - Demonstrates data encoding into qubits, parameterized quantum layers, measurement, and a final classical output layer
 - Showcases training, accuracy/loss plots, and comparison with baseline performance
 
----
-
-## 🛠️ Requirements
-
-Install the core dependencies:
-
-```bash
-pip install -r requirements.txt   
-```
 
 ---
 
@@ -29,6 +20,17 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/amacaluso/Image-Classification-with-QNN.git
 ```
+
+---
+
+## 🛠️ Requirements
+
+Install the core dependencies:
+
+```bash
+pip install -r requirements.txt   
+```
+
 
 2. **Run and explore notebooks:**
 
